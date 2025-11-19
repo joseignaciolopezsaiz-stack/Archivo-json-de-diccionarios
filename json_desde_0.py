@@ -12,19 +12,9 @@ def usuario():
     with open(file_name,"r") as f:
         data = json.load(f)
     print(data)
-    if len(data) == 0:
-        a = 0
-        #print(a)
-        a = str(a+1)
-        b = 'emp'+a
-        #print(b)
-    #print(len(data))
-    if len(data) > 0:
-        a =  len(data)   
-        #print(a)
-        a = str(a +1)
-        b = 'emp'+a
-    #print(b)
+    a = len(data)
+    a = str(a+1)
+    b = 'emp'+a
 # Agregar una nueva entrada
     nombre = input("nombre: ")
     edad = input("edad: ")
