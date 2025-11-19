@@ -24,8 +24,8 @@ def usuario():
         json.dump(data,f, indent=4)
     with open(file_name,"r") as f:
         print(json.load(f))
-usuario()
-usuario()
-usuario()
-usuario()
+        
+n = int(input("numero de entradas: "))
+for i in range(n):
+    usuario()
 
