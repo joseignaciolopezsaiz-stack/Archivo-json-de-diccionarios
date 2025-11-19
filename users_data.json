@@ -1,0 +1,37 @@
+{
+    "emp1": {
+        "nombre": "Jose",
+        "edad": "34",
+        "salario": "45000"
+    },
+    "emp2": {
+        "nombre": "Juan",
+        "edad": "34",
+        "salario": "45000"
+    },
+    "emp3": {
+        "nombre": "Andres",
+        "edad": "35",
+        "salario": "13000"
+    },
+    "emp4": {
+        "nombre": "Pablo",
+        "edad": "65",
+        "salario": "6000"
+    },
+    "emp5": {
+        "nombre": "Javier",
+        "edad": "34",
+        "salario": "5400"
+    },
+    "emp6": {
+        "nombre": "Andres",
+        "edad": "45",
+        "salario": "5600"
+    },
+    "emp7": {
+        "nombre": "Jose Javier",
+        "edad": "67",
+        "salario": "4500"
+    }
+}
