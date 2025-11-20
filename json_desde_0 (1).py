@@ -2,7 +2,6 @@ import json
 data = {}  
 def usuario():   
     file_name = "users_data.json"
-    #cargar archivo json completo
     #print(data)
     a = len(data)
     #print(a)
